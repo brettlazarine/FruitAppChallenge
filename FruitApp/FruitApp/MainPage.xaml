@@ -1,41 +1,75 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:acrylic="clr-namespace:Xe.AcrylicView;assembly=Xe.AcrylicView"
              x:Class="FruitApp.MainPage">
 
-    <ScrollView>
-        <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
-            VerticalOptions="Center">
+    <ContentPage.Background>
+        <LinearGradientBrush EndPoint="0,1">
+            <GradientStop Offset="0.1" Color="#FFCC33" />
+            <GradientStop Offset="1.0" Color="#FCBC03" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
 
-            <Image
-                Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
-                HeightRequest="200"
-                HorizontalOptions="Center" />
+    <Grid
+        Margin="25"
+        RowDefinitions=".2*, .4*, .4*">
 
+        <Image
+            Grid.RowSpan="3"
+            HorizontalOptions="Center"
+            Source="papaya" 
+            VerticalOptions="Center" />
+
+        <VerticalStackLayout>
             <Label
-                Text="Hello, World!"
-                SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
-                HorizontalOptions="Center" />
-
+                FontFamily="Regular"
+                FontSize="45"
+                HorizontalOptions="Center"
+                Text="PAPAYA" />
             <Label
-                Text="Welcome to .NET Multi-platform App UI"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
-                FontSize="18"
-                HorizontalOptions="Center" />
-
-            <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Center" />
-
+                Margin="0,15,0,0"
+                FontAttributes="Bold"
+                FontFamily="Bold"
+                FontSize="20"
+                HorizontalOptions="Center"
+                Text="100 grams" />
         </VerticalStackLayout>
-    </ScrollView>
 
+        <acrylic:AcrylicView
+            Grid.Row="2"
+            CornerRadius="20"
+            EffectStyle="Custom"
+            VerticalOptions="Center"
+            TintColor="#FCE7A7"
+            TintOpacity=".01">
+
+            <VerticalStackLayout
+                Padding="35"
+                VerticalOptions="Center"
+                BindableLayout.ItemsSource="{Binding PapayaInfo}">
+
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate>
+                        <Grid
+                            Margin="0,10,0,0"
+                            ColumnDefinitions=".6*, .4*">
+
+                            <Label
+                                FontFamily="Bold"
+                                FontSize="20"
+                                Text="{Binding Micronutrient}" />
+
+                            <Label
+                                Grid.Column="1"
+                                FontFamily="Regular"
+                                FontSize="20"
+                                HorizontalTextAlignment="End"
+                                Text="{Binding Percentage, StringFormat='{0} %'}" />
+                        </Grid>
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            </VerticalStackLayout>
+        </acrylic:AcrylicView>
+    </Grid>
 </ContentPage>

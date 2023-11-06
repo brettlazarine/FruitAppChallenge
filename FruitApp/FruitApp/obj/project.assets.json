@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net7.0-android33.0": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -1927,6 +1940,19 @@
       }
     },
     "net7.0-android33.0/android-arm": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -3852,6 +3878,19 @@
       }
     },
     "net7.0-android33.0/android-arm64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -5777,6 +5816,19 @@
       }
     },
     "net7.0-android33.0/android-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -7702,6 +7754,19 @@
       }
     },
     "net7.0-android33.0/android-x86": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -9627,6 +9692,19 @@
       }
     },
     "net7.0-android33.0/iossimulator-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -11552,6 +11630,19 @@
       }
     },
     "net7.0-android33.0/maccatalyst-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -13477,6 +13568,19 @@
       }
     },
     "net7.0-android33.0/win10-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Xe.AcrylicView.dll": {
+            "related": ".aar;.xml"
+          }
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -15402,6 +15506,15 @@
       }
     },
     "net7.0-ios16.1": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -15586,6 +15699,15 @@
       }
     },
     "net7.0-ios16.1/android-arm": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -15770,6 +15892,15 @@
       }
     },
     "net7.0-ios16.1/android-arm64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -15954,6 +16085,15 @@
       }
     },
     "net7.0-ios16.1/android-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16138,6 +16278,15 @@
       }
     },
     "net7.0-ios16.1/android-x86": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16322,6 +16471,15 @@
       }
     },
     "net7.0-ios16.1/iossimulator-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16506,6 +16664,15 @@
       }
     },
     "net7.0-ios16.1/maccatalyst-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16690,6 +16857,15 @@
       }
     },
     "net7.0-ios16.1/win10-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16874,6 +17050,15 @@
       }
     },
     "net7.0-maccatalyst16.1": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17058,6 +17243,15 @@
       }
     },
     "net7.0-maccatalyst16.1/android-arm": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17242,6 +17436,15 @@
       }
     },
     "net7.0-maccatalyst16.1/android-arm64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17426,6 +17629,15 @@
       }
     },
     "net7.0-maccatalyst16.1/android-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17610,6 +17822,15 @@
       }
     },
     "net7.0-maccatalyst16.1/android-x86": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17794,6 +18015,15 @@
       }
     },
     "net7.0-maccatalyst16.1/iossimulator-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17978,6 +18208,15 @@
       }
     },
     "net7.0-maccatalyst16.1/maccatalyst-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18162,6 +18401,15 @@
       }
     },
     "net7.0-maccatalyst16.1/win10-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18346,6 +18594,15 @@
       }
     },
     "net7.0-windows10.0.19041": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18668,6 +18925,15 @@
       }
     },
     "net7.0-windows10.0.19041/android-arm": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18962,6 +19228,15 @@
       }
     },
     "net7.0-windows10.0.19041/android-arm64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19256,6 +19531,15 @@
       }
     },
     "net7.0-windows10.0.19041/android-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19550,6 +19834,15 @@
       }
     },
     "net7.0-windows10.0.19041/android-x86": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19844,6 +20137,15 @@
       }
     },
     "net7.0-windows10.0.19041/iossimulator-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20138,6 +20440,15 @@
       }
     },
     "net7.0-windows10.0.19041/maccatalyst-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20432,6 +20743,15 @@
       }
     },
     "net7.0-windows10.0.19041/win10-x64": {
+      "AcrylicView.Maui/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20733,6 +21053,31 @@
     }
   },
   "libraries": {
+    "AcrylicView.Maui/2.0.1": {
+      "sha512": "57UApJUk6H+DpSd8QGg87EOaLdf02V9ZCOc4ztR5ZfZVIoWfeFCLn7kXHRPd7HtyrdNnJUP8TRNLk7ahdGt2uw==",
+      "type": "package",
+      "path": "acrylicview.maui/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "acrylicview.maui.2.0.1.nupkg.sha512",
+        "acrylicview.maui.nuspec",
+        "ico.png",
+        "lib/net6.0-android31.0/Xe.AcrylicView.dll",
+        "lib/net6.0-android31.0/Xe.AcrylicView.xml",
+        "lib/net6.0-ios16.1/Xe.AcrylicView.dll",
+        "lib/net6.0-maccatalyst16.1/Xe.AcrylicView.dll",
+        "lib/net6.0-windows10.0.19041/Xe.AcrylicView.dll",
+        "lib/net7.0-android33.0/Xe.AcrylicView.aar",
+        "lib/net7.0-android33.0/Xe.AcrylicView.dll",
+        "lib/net7.0-android33.0/Xe.AcrylicView.xml",
+        "lib/net7.0-ios16.1/Xe.AcrylicView.dll",
+        "lib/net7.0-maccatalyst16.1/Xe.AcrylicView.dll",
+        "lib/net7.0-windows10.0.19041/Xe.AcrylicView.dll"
+      ]
+    },
     "GoogleGson/2.9.1.1": {
       "sha512": "OreKEL2Yx2u8YhRqv0e+j45cEzoe+fyMEzGN+M/vfBDPsIXQcA6lGdHXO07bTrGn6NNwxY67dyIfbyXx3A7cDA==",
       "type": "package",
@@ -23966,6 +24311,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0-android33.0": [
+      "AcrylicView.Maui >= 2.0.1",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -23985,6 +24331,7 @@
       "Xamarin.Google.Crypto.Tink.Android >= 1.7.0.1"
     ],
     "net7.0-ios16.1": [
+      "AcrylicView.Maui >= 2.0.1",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -23993,6 +24340,7 @@
       "Microsoft.Maui.Graphics >= 7.0.86"
     ],
     "net7.0-maccatalyst16.1": [
+      "AcrylicView.Maui >= 2.0.1",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -24001,6 +24349,7 @@
       "Microsoft.Maui.Graphics >= 7.0.86"
     ],
     "net7.0-windows10.0.19041": [
+      "AcrylicView.Maui >= 2.0.1",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -24073,6 +24422,10 @@
       "net7.0-android33.0": {
         "targetAlias": "net7.0-android",
         "dependencies": {
+          "AcrylicView.Maui": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -24191,6 +24544,10 @@
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
         "dependencies": {
+          "AcrylicView.Maui": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -24254,6 +24611,10 @@
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
         "dependencies": {
+          "AcrylicView.Maui": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -24318,6 +24679,10 @@
       "net7.0-windows10.0.19041": {
         "targetAlias": "net7.0-windows10.0.19041.0",
         "dependencies": {
+          "AcrylicView.Maui": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",

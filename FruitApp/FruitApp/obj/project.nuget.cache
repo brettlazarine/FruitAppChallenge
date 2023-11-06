@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ogG0eUSN2eEWZoZh/zZuFktGwXlwm3XcaqS8B6YKMA3lCtBIWZsreB2IWwhB26k2QNshIOcTpTzImdW930maHg==",
+  "dgSpecHash": "OPZlRL8J4tEE/1th8qipOG70r7A6jGQcACmzvPMF3PnT/1NfEzmfuw3e9NT+V59QxS1/OaeJVQqWMJfoTSKXVA==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\MAUI\\FruitAppChallenge\\FruitApp\\FruitApp\\FruitApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jblaz\\.nuget\\packages\\acrylicview.maui\\2.0.1\\acrylicview.maui.2.0.1.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
